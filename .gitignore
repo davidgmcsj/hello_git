@@ -1,3 +1,4 @@
-#**/.nombre_fichero
+#**/nombre_fichero
 #**/carpeta/
 #**/carpeta/nombre_fichero
+**/archivo_ignorar.js
